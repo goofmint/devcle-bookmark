@@ -82,5 +82,29 @@
     "siteName": "",
     "favicon": "https://www.unscreen.com/favicon-196x196.png",
     "date": "Tue Sep 01 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://kvak.io/",
+    "summary": "オンラインノートサービス。URLにアクセスするだけで使える。",
+    "category": "note",
+    "tags": "webapp,note",
+    "title": "",
+    "description": "",
+    "image": "",
+    "siteName": "",
+    "favicon": "",
+    "date": ""
+  },
+  {
+    "url": "https://www.pixeltrue.com/free-illustrations",
+    "summary": "",
+    "category": "",
+    "tags": "",
+    "title": "",
+    "description": "",
+    "image": "",
+    "siteName": "",
+    "favicon": "",
+    "date": ""
   }
 ]
