@@ -1,0 +1,19 @@
+---
+date: 2020-09-01
+layout: post
+title: Pretzel Rocks
+subtitle: 
+description: >-
+  Stream-safe music for Livestreamers
+image: https://www.pretzel.rocks/share.png
+category: event
+tags:
+  - music
+  - event
+  - streaming
+author: goofmint
+paginate: true
+---
+ストリーミングで音楽を流せるサービス
+
+[Pretzel Rocks](https://www.pretzel.rocks/)

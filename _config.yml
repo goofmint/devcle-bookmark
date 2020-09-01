@@ -1,0 +1,97 @@
+# Site Settings
+name: DevCle::Bookmark
+title: DevCle::Bookmark | DevRel/開発者マーケティングに役立つブックマーク集
+description: DevCle::BookmarkはDevRel/開発者マーケティングに役立つWebサイト、Webアプリケーションを集めています
+tags:
+  - DevRel
+  - 開発者マーケティング
+  - Webアプリ
+  - 開発者コミュニティ
+  - API
+  - Developer Experience
+email: info@devcle.com
+show_hero: false
+menu:
+  - title: ホーム
+    url: /
+  - title: このサイトについて
+    url: /about
+  - title: コンタクト
+    url: /contact
+  - title: フィード
+    url: /feed.xml
+paginate: 12
+
+# Social Media Settings
+# Remove the item if you don't need it
+github_username: devcle
+facebook_username: devreljp
+twitter_username: devreljp
+
+# Posts Settings
+show_time_bar: false
+show_modal_on_exit: false
+show_modal_on_finish_post: false
+two_columns_layout: false
+
+# Advanced Settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://bookmark.devcle.com" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
+language: "ja"
+categories_folder: category
+sent_message_url: "/contact/message-sent/"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+collections:
+  authors:
+    output: true
+paginate_path: "/page/:num/"
+show_get_theme_btn: true
+use_logo: false
+
+# Content paginator
+paginate_content:
+  enabled: true
+  debug: false
+  collections:
+    - posts
+  auto: false
+  separator: "--page-break--"
+  permalink: "/:num/"
+  seo_canonical: true
+  properties:
+    part:
+      is_generated: true
+    last:
+      is_generated: true
+    single:
+      is_generated: true
+
+# SASS
+sass:
+  style: compressed
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-paginate-content
+
+# Exclude my node related stuff
+exclude: [
+  'package.json',
+  'package-lock.json',
+  'src',
+  'node_modules',
+  'initpost.sh',
+  'Gemfile',
+  'Gemfile.lock',
+  'gulpfile.js',
+  'README.md'
+]
+
+# Theme
+version: v3.1.0

@@ -1,0 +1,18 @@
+---
+date: 2020-09-01
+layout: post
+title: Remove Background from Image – remove.bg
+subtitle: 
+description: >-
+  Remove Image Background: 100% automatically – in 5 seconds – without a single click – for free.
+image: https://www.remove.bg/images/remove_image_background.jpg
+category: api
+tags:
+  - api
+  - image
+author: goofmint
+paginate: true
+---
+画像から背景を消すAPIを提供している
+
+[Remove Background from Image – remove.bg](https://www.remove.bg/ja)
