@@ -63,24 +63,24 @@
     "url": "https://mantra.co.jp/",
     "summary": "マンガの翻訳を提供するサービス。",
     "category": "content",
-    "tags": "",
-    "title": "",
-    "description": "",
-    "image": "",
+    "tags": "manga,commic,translate",
+    "title": "Mantra株式会社 公式サイト",
+    "description": "Mantra（マントラ）はマンガに特化した機械翻訳技術を駆使し、世界の言葉でマンガを届けるソリューションを提供します。",
+    "image": "https://mantra.co.jp/resources/ogp.png",
     "siteName": "",
-    "favicon": "",
-    "date": ""
+    "favicon": "https://mantra.co.jp/favicon.svg",
+    "date": "Tue Sep 01 2020 00:00:00 GMT+0900 (日本標準時)"
   },
   {
     "url": "https://www.unscreen.com/",
     "summary": "動画から背景を消すサービス。",
     "category": "movie",
-    "tags": "",
-    "title": "",
-    "description": "",
-    "image": "",
+    "tags": "movie,background",
+    "title": "Remove Video Background – Unscreen",
+    "description": "Remove the background of any video - 100% automatically, online & free! Goodbye Greenscreen. Hello Unscreen.",
+    "image": "https://www.unscreen.com/remove_video_background.jpg",
     "siteName": "",
-    "favicon": "",
-    "date": ""
+    "favicon": "https://www.unscreen.com/favicon-196x196.png",
+    "date": "Tue Sep 01 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
