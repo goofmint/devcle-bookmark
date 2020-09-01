@@ -1,0 +1,18 @@
+---
+date: 2020-09-01
+layout: post
+title: Zesture - Control your Music, Movies and Slides with Hand Gestures.
+subtitle: 
+description: >-
+  Zesture gives you touch-free control over your media, entertainment and presentation applications. Works with apps like YouTube, Spotify, Apple Music, Netflix, VLC, Powerpoint and many more.
+image: https://zesture.app/static/images/zesture-krishna.jpg
+category: software
+tags:
+  - presentation
+  - software
+author: goofmint
+paginate: true
+---
+ジェスチャーでスライドや音楽、動画の再生/停止をコントロールできるソフトウェア。
+
+[Zesture - Control your Music, Movies and Slides with Hand Gestures.](https://zesture.app/)

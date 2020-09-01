@@ -112,11 +112,11 @@
     "summary": "ジェスチャーでスライドや音楽、動画の再生/停止をコントロールできるソフトウェア。",
     "category": "software",
     "tags": "presentation,software",
-    "title": "",
-    "description": "",
-    "image": "",
+    "title": "Zesture - Control your Music, Movies and Slides with Hand Gestures.",
+    "description": "Zesture gives you touch-free control over your media, entertainment and presentation applications. Works with apps like YouTube, Spotify, Apple Music, Netflix, VLC, Powerpoint and many more.",
+    "image": "https://zesture.app/static/images/zesture-krishna.jpg",
     "siteName": "",
-    "favicon": "",
+    "favicon": "https://zesture.app/../static/images/zesture-icon.png",
     "date": "Tue Sep 01 2020 00:00:00 GMT+0900 (日本標準時)"
   },
   {
@@ -124,23 +124,23 @@
     "summary": "複数のタイムゾーンを並べて、昼夜の判断ができる。",
     "category": "webapp",
     "tags": "timezone,schedule",
-    "title": "",
-    "description": "",
-    "image": "",
+    "title": "Meeting Planner – Find best time across Time Zones",
+    "description": "The World Clock Meeting Planner is used to find a suitable time to have a telephone conversation, web cast or meeting with participants in many time zones",
+    "image": "https://c.tadst.com/gfx/1200x630/meeting-planner.png?1",
     "siteName": "",
-    "favicon": "",
+    "favicon": "https://www.timeanddate.com/favicon-48x48.png",
     "date": "Tue Sep 01 2020 00:00:00 GMT+0900 (日本標準時)"
   },
   {
     "url": "https://krisp.ai/",
     "summary": "マイク、イヤフォンのノイズを低減するソフトウェア。",
     "category": "software",
-    "tags": "noice,microphone,",
-    "title": "",
-    "description": "",
-    "image": "",
+    "tags": "noice,microphone,software",
+    "title": "Krisp | Noise Cancelling App",
+    "description": "With a single button, Krisp removes all background noises for incoming and outgoing calls. Increase your productivity by having professional and noiseless conference calls from anywhere.",
+    "image": "https://krisp.ai/wp-content/themes/KrispLight/imgs/screenshot.png",
     "siteName": "",
-    "favicon": "",
-    "date": ""
+    "favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-192x192.png",
+    "date": "Tue Sep 01 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
