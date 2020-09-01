@@ -245,5 +245,18 @@
     "favicon": "https://conf.kokutele.com/logo32.png",
     "get": "true",
     "date": "Tue Sep 01 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://images.weserv.nl/",
+    "summary": "画像のプロキシサービス。リサイズなどの機能もある。",
+    "category": "webapp",
+    "tags": "image,convert",
+    "title": "Image cache & resize service",
+    "description": "Manipulate images on-the-fly with a worldwide cache",
+    "image": "https://images.weserv.nl/apple-touch-icon.png",
+    "siteName": "",
+    "favicon": "",
+    "get": "true",
+    "date": ""
   }
 ]
