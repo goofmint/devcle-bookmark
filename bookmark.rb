@@ -1,9 +1,11 @@
-require('json')
-require('date')
+require 'json'
+require 'date'
+require 'digest'
 
 json = JSON.parse(open('./_data/bookmarks.json').read)
 
 json.each do |b|
+  next if b['get'] != 'true'
   date = Date.parse b['date']
   content = <<-EOS
 ---
@@ -24,7 +26,7 @@ paginate: true
 
 [#{b['title']}](#{b['url']})
   EOS
-  f = open("./_posts/#{date.strftime('%Y-%m-%d')}-#{b['title']}.md", 'w')
+  f = open("./_posts/#{date.strftime('%Y-%m-%d')}-#{Digest::SHA256.hexdigest(b['title'])}.md", 'w')
   f.write(content)
   f.close
 end
