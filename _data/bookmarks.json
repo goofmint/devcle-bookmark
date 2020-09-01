@@ -205,6 +205,19 @@
     "siteName": "",
     "favicon": "https://2020.rubyworld-conf.org/favicon.ico",
     "get": "true",
+    "date": "Tue Sep 01 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://cmxhub.com/summit2020/",
+    "summary": "",
+    "category": "",
+    "tags": "",
+    "title": "",
+    "description": "",
+    "image": "",
+    "siteName": "",
+    "favicon": "",
+    "get": "",
     "date": ""
   }
 ]
