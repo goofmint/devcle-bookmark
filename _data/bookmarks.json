@@ -122,13 +122,13 @@
   {
     "url": "https://www.timeanddate.com/worldclock/meeting.html",
     "summary": "複数のタイムゾーンを並べて、昼夜の判断ができる。",
-    "category": "",
-    "tags": "",
+    "category": "webapp",
+    "tags": "timezone,schedule",
     "title": "",
     "description": "",
     "image": "",
     "siteName": "",
     "favicon": "",
-    "date": ""
+    "date": "Tue Sep 01 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
