@@ -11,7 +11,7 @@ permalink: /about/
 
 DevCle::BookmarkはDevRelや開発者マーケティングに役立つWebサイト、Webアプリケーションの情報をまとめたブックマーク集です。
 
-Webサイトの情報は[Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1uycpo-97BZcSPtWFy_nxuiGLJyJWASRM8z_r23_QSyU/edit#gid=0)で管理されているので、誰でも編集に参加できます（ぜひ参加してください！）。
+Webサイトの情報は[Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1uycpo-97BZcSPtWFy_nxuiGLJyJWASRM8z_r23_QSyU/edit?usp=sharing)で管理されているので、誰でも編集に参加できます（ぜひ参加してください！）。
 
 ## はてなブックマークとの違い
 
