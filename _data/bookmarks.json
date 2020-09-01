@@ -248,7 +248,7 @@
   },
   {
     "url": "https://images.weserv.nl/",
-    "summary": "画像のプロキシサービス。リサイズなどの機能もある。",
+    "summary": "画像のプロキシサービス。リサイズなどの機能もある。無料で使える。",
     "category": "webapp",
     "tags": "image,convert",
     "title": "Image cache & resize service",
@@ -257,6 +257,19 @@
     "siteName": "",
     "favicon": "",
     "get": "true",
-    "date": ""
+    "date": "Tue Sep 01 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://www.sakura.ad.jp/services/imageflux/",
+    "summary": "さくらインターネットが提供する画像プロキシ&変換サービス。",
+    "category": "webapp",
+    "tags": "image,convert",
+    "title": "画像変換サービス ImageFlux｜さくらインターネット",
+    "description": "ImageFlux（イメージフラックス）は、1枚の画像をもとに画像の拡大縮小、切り抜き、合成などによりデバイスに最適化された画像を簡単に生成し、高速かつ高品質で配信するクラウドサービスです。",
+    "image": "https://www.sakura.ad.jp/services/imageflux/img/ogp_imageflux_square.jpg",
+    "siteName": "",
+    "favicon": "https://www.sakura.ad.jp/resource/favicon/sakura_logo_32.png",
+    "get": "true",
+    "date": "Tue Sep 01 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
