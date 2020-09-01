@@ -193,5 +193,18 @@
     "favicon": "https://combo.staticflickr.com/pw/images/favicons/favicon-228.png",
     "get": "true",
     "date": "Tue Sep 01 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://2020.rubyworld-conf.org/ja/",
+    "summary": "RubyWorld 2020のカンファレンスサイト。",
+    "category": "conference",
+    "tags": "ruby,conference",
+    "title": "RubyWorld Conference 2020",
+    "description": "広がるRubyのエコシステムを実感。RubyWorld Conference 2020、12月17日(木)開催。",
+    "image": "https://2020.rubyworld-conf.org/images/ogp@2x.jpg",
+    "siteName": "",
+    "favicon": "https://2020.rubyworld-conf.org/favicon.ico",
+    "get": "true",
+    "date": ""
   }
 ]
