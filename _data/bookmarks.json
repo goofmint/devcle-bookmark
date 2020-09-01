@@ -232,5 +232,18 @@
     "favicon": "https://s.togetter.com/static/1.16.02/web/img/tg/icon/android-icon-192x192.png",
     "get": "true",
     "date": "Tue Sep 01 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://conf.kokutele.com/",
+    "summary": "国産のWeb会議システム。4人以上から音声のみ。",
+    "category": "software",
+    "tags": "opensource,conference,web",
+    "title": "",
+    "description": "",
+    "image": "",
+    "siteName": "",
+    "favicon": "",
+    "get": "",
+    "date": ""
   }
 ]
