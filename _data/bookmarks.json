@@ -238,12 +238,12 @@
     "summary": "国産のWeb会議システム。4人以上から音声のみ。",
     "category": "software",
     "tags": "opensource,conference,web",
-    "title": "",
-    "description": "",
-    "image": "",
+    "title": "kokutele",
+    "description": "kokutele - 国産テレカンツール",
+    "image": "https://conf.kokutele.com/logo192.png",
     "siteName": "",
-    "favicon": "",
-    "get": "",
-    "date": ""
+    "favicon": "https://conf.kokutele.com/logo32.png",
+    "get": "true",
+    "date": "Tue Sep 01 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
