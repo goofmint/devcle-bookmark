@@ -58,5 +58,29 @@
     "siteName": "",
     "favicon": "https://www.remove.bg/favicon-32x32.png?v=YAXaAv7pao",
     "date": "Tue Sep 01 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://mantra.co.jp/",
+    "summary": "マンガの翻訳を提供するサービス。",
+    "category": "content",
+    "tags": "",
+    "title": "",
+    "description": "",
+    "image": "",
+    "siteName": "",
+    "favicon": "",
+    "date": ""
+  },
+  {
+    "url": "https://www.unscreen.com/",
+    "summary": "動画から背景を消すサービス。",
+    "category": "movie",
+    "tags": "",
+    "title": "",
+    "description": "",
+    "image": "",
+    "siteName": "",
+    "favicon": "",
+    "date": ""
   }
 ]
