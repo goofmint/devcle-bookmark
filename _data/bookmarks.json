@@ -271,5 +271,18 @@
     "favicon": "https://www.sakura.ad.jp/resource/favicon/sakura_logo_32.png",
     "get": "true",
     "date": "Tue Sep 01 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://k-stash.com/",
+    "summary": "知識をためておくサービス。付せん紙的な使い方ができそう。",
+    "category": "",
+    "tags": "",
+    "title": "",
+    "description": "",
+    "image": "",
+    "siteName": "",
+    "favicon": "",
+    "get": "",
+    "date": ""
   }
 ]
