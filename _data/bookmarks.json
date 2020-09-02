@@ -290,12 +290,12 @@
     "summary": "AWSのシェアが45%…圧倒的ですね。先駆者利益、他社の追随を許さない開発力とDevRelの結果でしょうか。",
     "category": "cloud",
     "tags": "aws,share",
-    "title": "",
-    "description": "",
-    "image": "",
+    "title": "IaaS型クラウドにおけるAWSのシェアは45％、Azureが18％で2位、3位はアリババ。2020年8月のガートナー調査",
+    "description": "米調査会社のガートナーは、IaaS型クラウドにおける市場シェアについての調査を発表しました。 発表によると、2019年の市場規模は約44ビリオンドル。2018年と2019年を比較すると、市場全体の成長率は37.3％。2019年のシェアトップ...",
+    "image": "https://www.publickey1.jp/2020/gartner_iaas20192020b.gif",
     "siteName": "",
-    "favicon": "",
-    "get": "",
-    "date": ""
+    "favicon": "https://www.publickey1.jp/favicon.ico",
+    "get": "true",
+    "date": "Wed Sep 02 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
