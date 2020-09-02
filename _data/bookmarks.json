@@ -275,14 +275,14 @@
   {
     "url": "https://k-stash.com/",
     "summary": "知識をためておくサービス。付せん紙的な使い方ができそう。",
-    "category": "",
-    "tags": "",
-    "title": "",
-    "description": "",
-    "image": "",
+    "category": "webapp",
+    "tags": "note",
+    "title": "K-Stash Beta",
+    "description": "The stash for your knowledge. The home for all the useful resources and links you find on the web.",
+    "image": "https://k-stash.com/logo.png",
     "siteName": "",
-    "favicon": "",
-    "get": "",
-    "date": ""
+    "favicon": "https://k-stash.com/main_icn.jpeg",
+    "get": "true",
+    "date": "Wed Sep 02 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
