@@ -303,12 +303,12 @@
     "summary": "テキスト校正用のツール。日本語に特化しているリンク集。",
     "category": "webapp",
     "tags": "japanese,text,lint",
-    "title": "",
-    "description": "",
-    "image": "",
+    "title": "エンジニアのための日本語校正ツール - Qiita",
+    "description": "はじめに  みなさん、日本語って難しいですよね。  エンジニアは日常的に日本語文章を制作します。しかし文章の品質を保つのはとても難しい作業です。この記事ではエンジニアが日本語文章を校正する上で助けになるツールを紹介します。私たちは...",
+    "image": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-1150d8b18a7c15795b701a55ae908f94.png?ixlib=rb-1.2.2&w=1200&mark=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D380%26txt%3D%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%25E6%25A0%25A1%25E6%25AD%25A3%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D54%26txt-clip%3Dellipsis%26txt-align%3Dcenter%252Cmiddle%26s%3D36c72c17dd85cadbe1f3f6c1d2ee2e5d&mark-align=center%2Cmiddle&blend=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D500%26txt%3D%2540masato_makino%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D45%26txt-align%3Dright%252Cbottom%26s%3D06dbfe1d77d3d2b11078f3c513e9efd1&blend-align=center%2Cmiddle&blend-mode=normal&s=b63f67af5ef567a8d33b130870030f21",
     "siteName": "",
-    "favicon": "",
-    "get": "",
+    "favicon": "https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico",
+    "get": "true",
     "date": "Wed Sep 02 2020 00:00:00 GMT+0900 (日本標準時)"
   },
   {
@@ -316,12 +316,25 @@
     "summary": "英文の構文チェッカー。",
     "category": "software",
     "tags": "english,text,lint",
-    "title": "",
-    "description": "",
-    "image": "",
+    "title": "ProWritingAid - the best grammar checker, style editor, and editing tool in one package.",
+    "description": "Your personal writing coach. A grammar checker, style editor, and writing mentor in one package. The best writing depends on much more than just correct grammar. You need an editing tool that also highlights style issues and compares your writing to the best writers in your genre.",
+    "image": "https://prowritingaid.com/apple-icon-57x57.png",
     "siteName": "",
-    "favicon": "",
-    "get": "",
+    "favicon": "https://prowritingaid.com/android-icon-192x192.png",
+    "get": "true",
+    "date": "Wed Sep 02 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://www.grammarly.com/",
+    "summary": "英文の構文チェッカー。",
+    "category": "software",
+    "tags": "english,text,lint",
+    "title": "Write your best with Grammarly.",
+    "description": "Grammarly makes sure everything you type is easy to read, effective, and mistake-free. Try it today:",
+    "image": "https://static.grammarly.com/assets/files/24a1bbf5ca036df03402fbb571f640a2/open-graph-image-newfunnel.png",
+    "siteName": "",
+    "favicon": "https://static.grammarly.com/assets/files/8bcab69b48fd091107bf9cddb0080e87/android-chrome-256x256.png",
+    "get": "true",
     "date": "Wed Sep 02 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
