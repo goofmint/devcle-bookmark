@@ -297,5 +297,18 @@
     "favicon": "https://www.publickey1.jp/favicon.ico",
     "get": "true",
     "date": "Wed Sep 02 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://qiita.com/masato_makino/items/3fa7983f0873c95e49e7",
+    "summary": "テキスト校正用のツール。日本語に特化しているリンク集。",
+    "category": "webapp",
+    "tags": "japanese,text,lint",
+    "title": "",
+    "description": "",
+    "image": "",
+    "siteName": "",
+    "favicon": "",
+    "get": "",
+    "date": ""
   }
 ]
