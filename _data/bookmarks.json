@@ -368,12 +368,12 @@
     "summary": "自分だけのオリジナルグッズを作成できる。1点から注文可能。",
     "category": "novelty",
     "tags": "commerce,swag",
-    "title": "",
-    "description": "",
-    "image": "",
+    "title": "Make your own goods easily | SUZURI",
+    "description": "オリジナルアイテムを手軽に作成・販売できるサイト、SUZURI（スズリ）。自分だけの Tシャツやスマホケースなどを簡単につくることができます。キミが気に入ったなら、この船に乗れ。",
+    "image": "https://dijsur42hqnz1.cloudfront.net/assets/common/ogimage-32c48ae1774084e1ca97f692a32e109fb199df8a9c0cc30dba583e472d21d012.png",
     "siteName": "",
-    "favicon": "",
-    "get": "",
-    "date": ""
+    "favicon": "https://dijsur42hqnz1.cloudfront.net/assets/favicon-93f179fe4c10869b3ac2afb6a1a01a7948dd7f4b2538f38e9217d1f330fe6577.ico",
+    "get": "true",
+    "date": "Wed Sep 02 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
