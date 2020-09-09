@@ -11,7 +11,7 @@ json.each do |b|
 ---
 date: #{date.iso8601}
 layout: post
-title: #{b['title']}
+title: "#{b['title']}"
 subtitle: 
 description: >-
   #{b['description']}
