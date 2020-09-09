@@ -438,7 +438,7 @@
     "image": "https://static.canva.com/static/images/fb_cover.png",
     "siteName": "",
     "favicon": "",
-    "get": "",
+    "get": "true",
     "date": "Wed Sep 09 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
