@@ -381,51 +381,51 @@
     "summary": "ストリーミング配信サービス。一人配信用。",
     "category": "webapp",
     "tags": "streaming",
-    "title": "",
-    "description": "",
-    "image": "",
+    "title": "Reach a Wider Audience with Multistreaming | Restream",
+    "description": "Restream is the #1 multistreaming solution. Stream live to YouTube, Twitch, Facebook, and 30+ platforms at once. Get started today.",
+    "image": "https://restream.io/landings-assets/img/og-image-home-9533bef037b40a397f1f5e508a1fe060.png",
     "siteName": "",
-    "favicon": "",
-    "get": "",
-    "date": ""
+    "favicon": "https://restream.io/landings-assets/img/favicon-e7996283960df5723dcaceec1403a4dd.ico",
+    "get": "true",
+    "date": "Wed Sep 09 2020 00:00:00 GMT+0900 (日本標準時)"
   },
   {
     "url": "https://zebranding.com/",
     "summary": "ブランド管理サービス",
     "category": "brand",
     "tags": "brand,design",
-    "title": "",
-    "description": "",
-    "image": "",
+    "title": "ZeBrand: Brand Design Tool for Entrepreneurs",
+    "description": "Build complete your ZeBrand Kit including logo, color and typography and download templates and assets. We give all entrepreneurs access to good design.",
+    "image": "https://zebranding.com/ogp.png",
     "siteName": "",
-    "favicon": "",
-    "get": "",
-    "date": ""
+    "favicon": "https://zebranding.com/favicon.ico",
+    "get": "true",
+    "date": "Wed Sep 09 2020 00:00:00 GMT+0900 (日本標準時)"
   },
   {
     "url": "https://ambidata.io/",
     "summary": "データの可視化サービス",
     "category": "webapp",
     "tags": "graph,iot",
-    "title": "",
-    "description": "",
-    "image": "",
+    "title": "Ambient – IoTデーター可視化サービス",
+    "description": "AmbientはIoTデーターの可視化サービスです。",
+    "image": "http://ambidata.io/wp/wp-content/uploads/2017/10/structure3.jpg",
     "siteName": "",
-    "favicon": "",
-    "get": "",
-    "date": ""
+    "favicon": "https://ambidata.io/img/favicon.ico",
+    "get": "true",
+    "date": "Wed Sep 09 2020 00:00:00 GMT+0900 (日本標準時)"
   },
   {
     "url": "https://www.canva.com/",
     "summary": "ソーシャルメディアや動画などのデザインツール",
     "category": "webapp",
-    "tags": "",
+    "tags": "design,social",
     "title": "",
     "description": "",
     "image": "",
     "siteName": "",
     "favicon": "",
     "get": "",
-    "date": ""
+    "date": "Wed Sep 09 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
