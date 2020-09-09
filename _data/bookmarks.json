@@ -458,13 +458,13 @@
     "url": "https://weavr.ai/",
     "summary": "情報をクローリングしてインサイトを発見する",
     "category": "marketing",
-    "tags": "",
-    "title": "",
-    "description": "",
-    "image": "",
+    "tags": "marketing,devrel",
+    "title": "Weavr, Inc",
+    "description": "Continuous Intelligence from the Technology World",
+    "image": "https://weavr-web-assets.s3-us-west-2.amazonaws.com/email-templates/Weavr-Integration-Features.svg",
     "siteName": "",
-    "favicon": "",
-    "get": "",
-    "date": ""
+    "favicon": "https://weavr.ai/favicon-32x32.png?v=bb1a7b3b39c4229b65b3afdb6a6a68c3",
+    "get": "true",
+    "date": "Wed Sep 09 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
