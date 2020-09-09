@@ -390,10 +390,23 @@
     "date": ""
   },
   {
-    "url": "https://zebranding.com/?ref=producthunt",
+    "url": "https://zebranding.com/",
     "summary": "",
     "category": "",
     "tags": "",
+    "title": "",
+    "description": "",
+    "image": "",
+    "siteName": "",
+    "favicon": "",
+    "get": "",
+    "date": ""
+  },
+  {
+    "url": "https://ambidata.io/",
+    "summary": "データの可視化サービス",
+    "category": "webapp",
+    "tags": "graph,iot",
     "title": "",
     "description": "",
     "image": "",
