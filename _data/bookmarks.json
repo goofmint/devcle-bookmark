@@ -466,5 +466,18 @@
     "favicon": "https://weavr.ai/favicon-32x32.png?v=bb1a7b3b39c4229b65b3afdb6a6a68c3",
     "get": "true",
     "date": "Wed Sep 09 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://bgjar.com/",
+    "summary": "SVGの背景を生成",
+    "category": "design",
+    "tags": "svg",
+    "title": "",
+    "description": "",
+    "image": "",
+    "siteName": "",
+    "favicon": "",
+    "get": "",
+    "date": ""
   }
 ]
