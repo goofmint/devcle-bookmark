@@ -472,25 +472,25 @@
     "summary": "SVGの背景を生成",
     "category": "design",
     "tags": "svg",
-    "title": "",
-    "description": "",
-    "image": "",
+    "title": "Free svg background generator",
+    "description": "Free svg background generator for your websites, blogs and app.",
+    "image": "https://bgjar.com/bgjar.svg",
     "siteName": "",
-    "favicon": "",
-    "get": "",
-    "date": ""
+    "favicon": "https://bgjar.com/bgjar-100x100.png",
+    "get": "true",
+    "date": "Wed Sep 09 2020 00:00:00 GMT+0900 (日本標準時)"
   },
   {
     "url": "https://clouddraw.app/",
     "summary": "クラウドサービスの関連図を描くのに使える。",
     "category": "webapp",
-    "tags": "",
-    "title": "",
-    "description": "",
-    "image": "",
+    "tags": "design,cloud,diagram",
+    "title": "Clouddraw - Create cloud architecture diagrams in minutes",
+    "description": "Clouddraw allows you to create cloud architecture diagrams quickly with 1000s of Icons. Checkout the demo below or start creating your diagrams now (no signup required).",
+    "image": "https://clouddraw.app/img/demo.gif",
     "siteName": "",
-    "favicon": "",
-    "get": "",
-    "date": ""
+    "favicon": "https://clouddraw.app/favicon.ico",
+    "get": "true",
+    "date": "Wed Sep 09 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
