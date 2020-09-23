@@ -495,15 +495,15 @@
   },
   {
     "url": "https://www.renderforest.com/jp/",
-    "summary": "",
-    "category": "",
-    "tags": "",
-    "title": "",
-    "description": "",
-    "image": "",
+    "summary": "クラウドで動画、ロゴの作成など。",
+    "category": "video",
+    "tags": "cloud,design,movie",
+    "title": "オンラインの動画、ロゴ、ホームページビルダー | Renderforest",
+    "description": "イントロ、解説動画、プロモーションビデオ、ロゴ、プロフェッショナルなウェブサイトでさえ作れてしまうオールインワンプラットフォームです。",
+    "image": "https://static.rfstat.com/renderforest/images/v2/logos/renderforest-logo2.jpg",
     "siteName": "",
     "favicon": "",
-    "get": "",
-    "date": ""
+    "get": "true",
+    "date": "Wed Sep 23 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
