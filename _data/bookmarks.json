@@ -531,5 +531,18 @@
     "favicon": "",
     "get": "true",
     "date": "Sun Sep 27 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://drawerd.com/",
+    "summary": "データベースのダイアグラム化",
+    "category": "webapp",
+    "tags": "diagram,database",
+    "title": "DrawERD - ✨ Database schema diagrams",
+    "description": "Simple, beautiful database diagram editor for developers to create, collaborate and visualize their entity relationship diagrams.",
+    "image": "https://drawerd.com/landing_assets/img/brand/full.png",
+    "siteName": "",
+    "favicon": "https://drawerd.com/landing_assets/img/brand/favicon.png",
+    "get": "true",
+    "date": "Sun Sep 27 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
