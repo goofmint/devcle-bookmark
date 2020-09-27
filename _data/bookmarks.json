@@ -509,14 +509,14 @@
   {
     "url": "https://trueq.io/",
     "summary": "開発者向けのQ&Aサイト",
-    "category": "",
-    "tags": "",
-    "title": "",
-    "description": "",
-    "image": "",
+    "category": "qanda",
+    "tags": "q&a,community",
+    "title": "TrueQ",
+    "description": "Made with ♥️ by the TrueQ Team",
+    "image": "https://trueq.io/searching.svg",
     "siteName": "",
-    "favicon": "",
-    "get": "",
-    "date": ""
+    "favicon": "https://trueq.io/favicon.png",
+    "get": "true",
+    "date": "Sun Sep 27 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
