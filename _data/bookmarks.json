@@ -518,5 +518,18 @@
     "favicon": "https://trueq.io/favicon.png",
     "get": "true",
     "date": "Sun Sep 27 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://hotpot.ai/",
+    "summary": "各種サービス用デザインテンプレート集",
+    "category": "webapp",
+    "tags": "design,social",
+    "title": "Hotpot Design",
+    "description": "Hotpot.ai is an easy way to create device mockups, logos, social media ads, and other graphics. Drag-n-drop editors and attractive templates allow anyone to make professional graphics quickly.",
+    "image": "https://hotpot.ai/images/site/ogDefaultImage.jpg",
+    "siteName": "",
+    "favicon": "",
+    "get": "true",
+    "date": "Sun Sep 27 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
