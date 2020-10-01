@@ -548,14 +548,14 @@
   {
     "url": "https://products.ls.graphics/wrrooom/",
     "summary": "素材を組み合わせるキャラクター生成ツール",
-    "category": "",
-    "tags": "",
-    "title": "",
-    "description": "",
-    "image": "",
+    "category": "software",
+    "tags": "design,character",
+    "title": "Wrrooom! Illustration Constructor",
+    "description": "Biggest illustration creator for Sketch and Figma",
+    "image": "https://ls-data.sfo2.digitaloceanspaces.com/_inner_use/OG/OG%20Wrrooom.png",
     "siteName": "",
-    "favicon": "",
-    "get": "",
-    "date": ""
+    "favicon": "https://products.ls.graphics/wrrooom/images/favicon.png",
+    "get": "true",
+    "date": "Thu Oct 01 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
