@@ -557,5 +557,18 @@
     "favicon": "https://products.ls.graphics/wrrooom/images/favicon.png",
     "get": "true",
     "date": "Thu Oct 01 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://zenn.dev/",
+    "summary": "Qiitaのような情報共有サイト",
+    "category": "",
+    "tags": "",
+    "title": "",
+    "description": "",
+    "image": "",
+    "siteName": "",
+    "favicon": "",
+    "get": "",
+    "date": ""
   }
 ]
