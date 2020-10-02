@@ -561,14 +561,14 @@
   {
     "url": "https://zenn.dev/",
     "summary": "Qiitaのような情報共有サイト",
-    "category": "",
-    "tags": "",
-    "title": "",
-    "description": "",
-    "image": "",
+    "category": "webservice",
+    "tags": "knowledge,blog",
+    "title": "Zenn｜プログラマーのための情報共有コミュニティ",
+    "description": "Zennはプログラマーやクリエイターが技術・開発についての知見をシェアする場所です。ウェブ上での本の販売や、読者からのサポートにより対価を受け取ることができます。",
+    "image": "https://zenn.dev/images/og-large.png",
     "siteName": "",
-    "favicon": "",
-    "get": "",
-    "date": ""
+    "favicon": "https://zenn.dev/images/icon.png",
+    "get": "true",
+    "date": "Fri Oct 02 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
