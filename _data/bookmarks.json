@@ -598,16 +598,16 @@
     "date": "Mon Oct 05 2020 00:00:00 GMT+0900 (日本標準時)"
   },
   {
-    "url": "https://wovn.io/ja/",
-    "summary": "",
-    "category": "",
-    "tags": "",
-    "title": "",
-    "description": "",
-    "image": "",
+    "url": "https://wovn.io/",
+    "summary": "翻訳サービス",
+    "category": "webservice",
+    "tags": "translation,api",
+    "title": "WOVN.io | Make your website multilingual",
+    "description": "WOVN.io is a website localization service. In just a few simple steps, expand your reach, in any language.",
+    "image": "https://d31nl3o1g839d.cloudfront.net/nuxt/WOVN-og-image.jpg",
     "siteName": "",
-    "favicon": "",
-    "get": "",
-    "date": ""
+    "favicon": "https://d31nl3o1g839d.cloudfront.net/assets/images/favicon/android-chrome-256x256.png",
+    "get": "true",
+    "date": "Mon Oct 05 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
