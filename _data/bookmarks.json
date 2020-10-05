@@ -583,5 +583,18 @@
     "favicon": "https://d2300reqlestmv.cloudfront.net/assets/favicon.ico",
     "get": "true",
     "date": "Mon Oct 05 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://witeboard.com/",
+    "summary": "ホワイトボードサービス",
+    "category": "webapp",
+    "tags": "drawing,collabolation",
+    "title": "Witeboard",
+    "description": "Witeboard is the fastest way to collaborate real-time with your team anywhere.",
+    "image": "https://www.witeboard.com/static/assets/img/thumbnails/og_image.png",
+    "siteName": "",
+    "favicon": "https://witeboard.com/favicon.ico",
+    "get": "true",
+    "date": "Mon Oct 05 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
