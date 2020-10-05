@@ -570,5 +570,18 @@
     "favicon": "https://zenn.dev/images/icon.png",
     "get": "true",
     "date": "Fri Oct 02 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://eryngii.org/",
+    "summary": "オンラインでのネットワーキングツール",
+    "category": "webservice",
+    "tags": "community,networking",
+    "title": "エリンギ - オンラインでネットワーキングをする為のサービス",
+    "description": "エリンギは交流会、懇親会のためのオンライン動画通話サービスです。最大200名の方が同時に参加でき、ルームと呼ばれる複数の枠でそれぞれ会話をすることが出来ます。",
+    "image": "https://d2300reqlestmv.cloudfront.net/top/kv.png",
+    "siteName": "",
+    "favicon": "https://d2300reqlestmv.cloudfront.net/assets/favicon.ico",
+    "get": "true",
+    "date": "Mon Oct 05 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
