@@ -612,15 +612,15 @@
   },
   {
     "url": "https://ovice.in/ja/",
-    "summary": "",
-    "category": "",
-    "tags": "",
-    "title": "",
-    "description": "",
-    "image": "",
+    "summary": "最大500人まで使えるZoom + Spatial Chatみたいなことができるサービス。",
+    "category": "event",
+    "tags": "community,event",
+    "title": "Ovice 「オヴィス」 - コミュニケーションを促進するバーチャルスペース",
+    "description": "Ovice（オヴィス）はオンライン上の空間です。その空間を活用するとワーキングスペースとして利用することも、イベント会場として使うことも、コミュニティー拠点として利用することもできます。",
+    "image": "https://ovice.in/wp-content/uploads/2015/12/sub_hero-1024x441.png",
     "siteName": "",
-    "favicon": "",
-    "get": "",
-    "date": ""
+    "favicon": "https://ovice.in/ja/../wp-content/uploads/2020/07/symbol_48x48-16x16.png",
+    "get": "true",
+    "date": "Wed Oct 07 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
