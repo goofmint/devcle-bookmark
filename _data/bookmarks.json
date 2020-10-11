@@ -622,5 +622,18 @@
     "favicon": "https://ovice.in/ja/../wp-content/uploads/2020/07/symbol_48x48-16x16.png",
     "get": "true",
     "date": "Wed Oct 07 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://www.gabzzle.com/",
+    "summary": "ソーシャルメディア用のカバー画像を生成",
+    "category": "webservice",
+    "tags": "social,design",
+    "title": "",
+    "description": "",
+    "image": "",
+    "siteName": "",
+    "favicon": "",
+    "get": "",
+    "date": "Sun Oct 11 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
