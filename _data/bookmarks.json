@@ -628,12 +628,12 @@
     "summary": "ソーシャルメディア用のカバー画像を生成",
     "category": "webservice",
     "tags": "social,design",
-    "title": "",
-    "description": "",
-    "image": "",
+    "title": "Generate cover photos for all social media. | Gabzzle",
+    "description": "The #1 tool to automatically generate professional social media cover photos with up-to-date formats and sizes.",
+    "image": "https://www.gabzzle.com/assets/img/thumbnail.png",
     "siteName": "",
-    "favicon": "",
-    "get": "",
+    "favicon": "https://www.gabzzle.com/assets/img/favicon_32.png",
+    "get": "true",
     "date": "Sun Oct 11 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
