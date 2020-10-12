@@ -638,15 +638,15 @@
   },
   {
     "url": "https://theme-talk.vercel.app/",
-    "summary": "",
-    "category": "",
-    "tags": "",
-    "title": "",
-    "description": "",
-    "image": "",
+    "summary": "懇親会用のWebアプリ。お題が出て、それについて話す。",
+    "category": "webapp",
+    "tags": "community",
+    "title": "Theme Talk テーマトーク",
+    "description": "Theme Talk（テーマトーク）はオンライン飲み会やパーティーで話すお題を指定し、場を盛りあげます。",
+    "image": "https://theme-talk.vercel.app/ogp.png",
     "siteName": "",
-    "favicon": "",
-    "get": "",
-    "date": ""
+    "favicon": "https://theme-talk.vercel.app/favicon.ico",
+    "get": "true",
+    "date": "Mon Oct 12 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
