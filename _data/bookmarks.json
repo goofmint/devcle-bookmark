@@ -635,5 +635,18 @@
     "favicon": "https://www.gabzzle.com/assets/img/favicon_32.png",
     "get": "true",
     "date": "Sun Oct 11 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://theme-talk.vercel.app/",
+    "summary": "",
+    "category": "",
+    "tags": "",
+    "title": "",
+    "description": "",
+    "image": "",
+    "siteName": "",
+    "favicon": "",
+    "get": "",
+    "date": ""
   }
 ]
