@@ -654,12 +654,12 @@
     "summary": "懇親会用のWebアプリ。クイズゲームなど。",
     "category": "webapp",
     "tags": "community,game",
-    "title": "",
-    "description": "",
+    "title": "Play Kahoot! - Enter game PIN here!",
+    "description": "Join a game of kahoot here. Kahoot! is a free game-based learning platform that makes it fun to learn – any subject, in any language, on any device, for all ages!",
     "image": "",
     "siteName": "",
-    "favicon": "",
-    "get": "",
-    "date": ""
+    "favicon": "https://kahoot.it/v2/favicon.ico",
+    "get": "true",
+    "date": "Fri Oct 16 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
