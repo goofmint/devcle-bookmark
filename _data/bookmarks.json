@@ -687,5 +687,18 @@
     "favicon": "https://www.unscreen.com/favicon-196x196.png",
     "get": "true",
     "date": "Tue Oct 20 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://market.orilab.jp/",
+    "summary": "オリジナルグッズを作成できるサービス。ノベルティなどに。",
+    "category": "webservice",
+    "tags": "",
+    "title": "",
+    "description": "",
+    "image": "",
+    "siteName": "",
+    "favicon": "",
+    "get": "",
+    "date": ""
   }
 ]
