@@ -692,13 +692,26 @@
     "url": "https://market.orilab.jp/",
     "summary": "オリジナルグッズを作成できるサービス。ノベルティなどに。",
     "category": "webservice",
-    "tags": "",
-    "title": "",
-    "description": "",
-    "image": "",
+    "tags": "novelty",
+    "title": "オリジナルグッズの作成・販売サイト | オリラボマーケット",
+    "description": "商品到着時に配達員に代金をお支払いください。手数料:500円(税別)",
+    "image": "https://market.orilab.jp/common/img/logo-market.png",
     "siteName": "",
-    "favicon": "",
-    "get": "",
-    "date": ""
+    "favicon": "https://market.orilab.jp/favicon-market.ico",
+    "get": "true",
+    "date": "Tue Oct 20 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://suzuri.jp/",
+    "summary": "オリジナルグッズを作成できるサービス。ノベルティなどに。",
+    "category": "webservice",
+    "tags": "novelty",
+    "title": "Make your own goods easily | SUZURI",
+    "description": "オリジナルアイテムを手軽に作成・販売できるサイト、SUZURI（スズリ）。自分だけの Tシャツやスマホケースなどを簡単につくることができます。キミが気に入ったなら、この船に乗れ。",
+    "image": "https://dijsur42hqnz1.cloudfront.net/assets/common/ogimage-32c48ae1774084e1ca97f692a32e109fb199df8a9c0cc30dba583e472d21d012.png",
+    "siteName": "",
+    "favicon": "https://dijsur42hqnz1.cloudfront.net/assets/favicon-93f179fe4c10869b3ac2afb6a1a01a7948dd7f4b2538f38e9217d1f330fe6577.ico",
+    "get": "true",
+    "date": "Tue Oct 20 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
