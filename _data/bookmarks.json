@@ -664,15 +664,15 @@
   },
   {
     "url": "https://apps.apple.com/jp/app/launchpad/id584362474",
-    "summary": "",
-    "category": "",
-    "tags": "",
-    "title": "",
-    "description": "",
-    "image": "",
+    "summary": "音楽を作成。配信で流したりする音楽を作るのに便利。",
+    "category": "app",
+    "tags": "music",
+    "title": "‎Launchpad",
+    "description": "‎作曲や音楽のリミックスをしたいというあなたに。  エレクトロニックミュージックが好きな方におすすめなのが、Launchpad。自分のiPhoneやiPadを使って曲の制作やリミックスなど、インスピレーションにあふれた世界に浸れます。  「…まさに最も楽しいアプリのひとつだ。長い間こういうのを探していた…」（Sonic Scoop）  ビートやベースライン、メロディー、ボーカル、FX LOOP（エフェクトループ）などを組み合わせ、自分だけの曲をすぐに制作することができます。 Launchpadには同期機能があるので、いつでもどこでもビートを楽しめます。 また、Launchpadには、すぐに使える…",
+    "image": "https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/0b/14/4d/0b144de2-0ce5-5f4d-562b-6c4a2f0280ca/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
     "siteName": "",
     "favicon": "",
-    "get": "",
-    "date": ""
+    "get": "true",
+    "date": "Tue Oct 20 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
