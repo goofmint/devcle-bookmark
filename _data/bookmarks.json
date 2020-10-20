@@ -674,5 +674,18 @@
     "favicon": "",
     "get": "true",
     "date": "Tue Oct 20 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://www.unscreen.com/",
+    "summary": "動画から背景を除去する",
+    "category": "webapp",
+    "tags": "movie",
+    "title": "Remove Video Background – Unscreen",
+    "description": "Remove the background of any video - 100% automatically, online & free! Goodbye Greenscreen. Hello Unscreen.",
+    "image": "https://www.unscreen.com/remove_video_background.jpg",
+    "siteName": "",
+    "favicon": "https://www.unscreen.com/favicon-196x196.png",
+    "get": "true",
+    "date": "Tue Oct 20 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
