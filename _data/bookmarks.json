@@ -719,12 +719,12 @@
     "summary": "柔らかいタッチのイラスト集",
     "category": "design",
     "tags": "illustration",
-    "title": "",
-    "description": "",
-    "image": "",
+    "title": "Loose Drawing",
+    "description": "シンプルなイラストが見つかるフリー素材サイト Loose Drawing。広告、フライヤー、ポスター、企画書、スライド資料など様々なデザイン制作で使えるイラストを無料で更新しています。商用利用も可能。",
+    "image": "https://loosedrawing.com/wp/wp-content/themes/loose-drawing/img/common/og.png",
     "siteName": "",
-    "favicon": "",
-    "get": "",
+    "favicon": "https://loosedrawing.com/wp/wp-content/uploads/2020/08/cropped-android-chrome-512x512-1-1-192x192.png",
+    "get": "true",
     "date": "Thu Oct 29 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
