@@ -731,13 +731,13 @@
     "url": "https://www.twitch.tv/broadcast/soundtrack",
     "summary": "Twitch配信で使える音楽ツール",
     "category": "music",
-    "tags": "",
-    "title": "",
-    "description": "",
-    "image": "",
+    "tags": "twitch,streaming",
+    "title": "Twitch",
+    "description": "Twitch is the world's leading video platform and community for gamers.",
+    "image": "https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg",
     "siteName": "",
-    "favicon": "",
-    "get": "",
-    "date": ""
+    "favicon": "https://static.twitchcdn.net/assets/favicon-32-d6025c14e900565d6177.png",
+    "get": "true",
+    "date": "Fri Oct 30 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
