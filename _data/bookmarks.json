@@ -739,5 +739,18 @@
     "favicon": "https://static.twitchcdn.net/assets/favicon-32-d6025c14e900565d6177.png",
     "get": "true",
     "date": "Fri Oct 30 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://spotme.com/",
+    "summary": "オンラインイベント・カンファレンスツール",
+    "category": "event",
+    "tags": "conference",
+    "title": "SpotMe: Digital Experiences & Virtual Event Platform",
+    "description": "From live to on-demand, SpotMe makes it easy to deliver digital experiences and event apps that your audience loves.",
+    "image": "https://spotme.com/wp-content/uploads/2020/04/PR2-1.png",
+    "siteName": "",
+    "favicon": "https://spotme.com/wp-content/themes/spotme/img/favicon-32x32.png",
+    "get": "true",
+    "date": "Thu Nov 12 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
