@@ -752,5 +752,18 @@
     "favicon": "https://spotme.com/wp-content/themes/spotme/img/favicon-32x32.png",
     "get": "true",
     "date": "Thu Nov 12 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://gather.town/",
+    "summary": "",
+    "category": "communication",
+    "tags": "event,communication",
+    "title": "Gather",
+    "description": "Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.",
+    "image": "https://gather.town/images/site/site_preview.png",
+    "siteName": "",
+    "favicon": "",
+    "get": "true",
+    "date": "Mon Nov 16 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
