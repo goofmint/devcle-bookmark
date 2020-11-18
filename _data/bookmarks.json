@@ -778,5 +778,18 @@
     "favicon": "https://f.vimeocdn.com/images_v6/favicon.ico?be9edaf930656f06cf3571f9f53ce04ad902e980",
     "get": "true",
     "date": "Wed Nov 18 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://cloudinary.com/",
+    "summary": "画像を自動生成するサービス。OGPの生成など。",
+    "category": "image",
+    "tags": "ogp,generate",
+    "title": "Image and Video Upload, Storage, Optimization and CDN",
+    "description": "Streamline media management and improve user experience by automatically delivering images and videos, enhanced and optimized for every user.",
+    "image": "https://cloudinary-res.cloudinary.com/image/upload/f_auto,q_auto/v1593436815/website/Cld_SocShare_Card_FB.png",
+    "siteName": "",
+    "favicon": "https://cloudinary.com/wp-content/uploads/sites/6/2020/09/favicon-32x32-1.png",
+    "get": "true",
+    "date": "Wed Nov 18 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
