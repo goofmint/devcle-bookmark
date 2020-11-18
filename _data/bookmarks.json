@@ -771,12 +771,12 @@
     "summary": "Vimeoが提供するライブストリーミングプラットフォーム",
     "category": "streaming",
     "tags": "event,live",
-    "title": "",
-    "description": "",
+    "title": "次のイベントは Vimeo でプロフェッショナルなライブストリーミングを実現",
+    "description": "高画質 1080pで動画をライブストリーム。あなたのストレスを軽減し視聴者のエンゲージメントを高めるツールを使い、あなたのライブ動画やアップロード済みのすべての動画が集まるホームをお楽しみください。",
     "image": "",
     "siteName": "",
-    "favicon": "",
-    "get": "",
-    "date": ""
+    "favicon": "https://f.vimeocdn.com/images_v6/favicon.ico?be9edaf930656f06cf3571f9f53ce04ad902e980",
+    "get": "true",
+    "date": "Wed Nov 18 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
