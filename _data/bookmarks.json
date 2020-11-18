@@ -765,5 +765,18 @@
     "favicon": "",
     "get": "true",
     "date": "Mon Nov 16 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://vimeo.com/jp/features/livestreaming",
+    "summary": "Vimeoが提供するライブストリーミングプラットフォーム",
+    "category": "streaming",
+    "tags": "event,live",
+    "title": "",
+    "description": "",
+    "image": "",
+    "siteName": "",
+    "favicon": "",
+    "get": "",
+    "date": ""
   }
 ]
