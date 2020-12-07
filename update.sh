@@ -1,5 +1,4 @@
 #!/bin/bash
-eval "$(rbenv init -)"
 git pull
 sh getData.sh
 git add .
