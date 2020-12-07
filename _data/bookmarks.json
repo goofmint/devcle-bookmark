@@ -791,5 +791,44 @@
     "favicon": "https://cloudinary.com/wp-content/uploads/sites/6/2020/09/favicon-32x32-1.png",
     "get": "true",
     "date": "Wed Nov 18 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://www.cloud-config.jp/services/virtual-event-service/",
+    "summary": "バーチャル空間の3Dイベントスペース。",
+    "category": "event",
+    "tags": "3d",
+    "title": "cloud.config Virtual Event Service バーチャルイベント | cloud.config",
+    "description": "「cloud.config Virtual Event Service(ccVES)」とは、株式会社FIXERがMicrosoft Azureをプラットフォームに採用し開発した、SaaS型の３Dバーチャルイベントサービスです。",
+    "image": "https://www.cloud-config.jp/wp-content/uploads/favicon.png",
+    "siteName": "",
+    "favicon": "https://www.cloud-config.jp/wp-content/uploads/favicon.png",
+    "get": "true",
+    "date": "Mon Dec 07 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://orbit.love/",
+    "summary": "コミュニティ育成ツール。",
+    "category": "communication",
+    "tags": "crm",
+    "title": "Orbit — Build relationships, not spreadsheets.",
+    "description": "Orbit is the community experience platform for developers, helping organizations build enthusiastic communities of technology adopters.",
+    "image": "https://orbit.love/assets/images/og_image.png",
+    "siteName": "",
+    "favicon": "https://orbit.love/assets/images/favicon/32x32.png",
+    "get": "true",
+    "date": "Mon Dec 07 2020 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://leggetter.github.io/devrelometer/",
+    "summary": "DevRelの施策をパフォーマンスとして可視化",
+    "category": "devrel",
+    "tags": "report,marketing",
+    "title": "DevRelOMeter: Are you practicing Developer Evangelism or Advocacy?",
+    "description": "Are you practicing - or considering practicing - Developer Evangelism or Advocacy?",
+    "image": "",
+    "siteName": "",
+    "favicon": "",
+    "get": "true",
+    "date": "Mon Dec 07 2020 00:00:00 GMT+0900 (日本標準時)"
   }
 ]
