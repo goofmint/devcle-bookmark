@@ -934,5 +934,18 @@
     "favicon": "https://www.kodular.io/assets/favicon.ico",
     "get": "true",
     "date": "Fri Jan 08 2021 00:00:00 GMT+0900 (日本標準時)"
+  },
+  {
+    "url": "https://www.bevy.com/",
+    "summary": "",
+    "category": "",
+    "tags": "",
+    "title": "",
+    "description": "",
+    "image": "",
+    "siteName": "",
+    "favicon": "",
+    "get": "",
+    "date": ""
   }
 ]
